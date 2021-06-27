@@ -1,7 +1,8 @@
 ---
 title: html锚点
 date: 2021-06-26 15:02:14
-tags: html
+tags: 
+  - html
 ---
 ## 锚点就是在html文档标记一个位置，点击锚点链接就可以让滚动条移动到锚点标记的位置
 
@@ -18,6 +19,10 @@ tags: html
 ``` html
 <a href="#anchor">点击我跳到anchor锚点标记</a>
 ```
+
+<a href="#anchor">点击我跳到anchor锚点标记</a>
+
+<a name="anchor">这是一个锚点标记</a>
 
 ### 跨页面锚点
 
