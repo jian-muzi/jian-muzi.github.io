@@ -7,16 +7,16 @@ tags: html
 
 ### 当前页面锚点
 
- 1.设置锚点标记
+1.设置锚点标记
 
 ``` html
-  <a name="anchor">这是一个锚点标记</a>
+<a name="anchor">这是一个锚点标记</a>
 ```
 
- 2.设置锚点链接
+2.设置锚点链接
 
 ``` html
-  <a href="#anchor">点击我跳到anchor锚点标记</a>
+<a href="#anchor">点击我跳到anchor锚点标记</a>
 ```
 
 ### 跨页面锚点
