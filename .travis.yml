@@ -11,7 +11,7 @@ branches:
   - master
 
 install:
-#  - npm install
+  - npm install hexo
   - npm run build # 这个需要改为npm run generate:gh-pages
 
 script:
