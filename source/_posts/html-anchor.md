@@ -9,13 +9,13 @@ tags: html
 
 1.设置锚点标记
 
-``` html
+```
 <a name="anchor">这是一个锚点标记</a>
 ```
 
 2.设置锚点链接
 
-``` html
+```
 <a href="#anchor">点击我跳到anchor锚点标记</a>
 ```
 
@@ -23,12 +23,12 @@ tags: html
 
 1.设置锚点标记
 
-``` html
+```
 <a name="anchor">这是一个锚点标记</a>
 ```
 
 2.设置锚点链接
 
-``` html
+```
 <a href="需要跳转的页面url#anchor">点击我跳到指定页面的anchor锚点标记</a>
 ```
